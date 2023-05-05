@@ -3,6 +3,7 @@
 
 # Things I have added or implemented to the task of modifying the day schedule calendar : 
 
-- Added in JavaScript code and modified the calendar app to let it know whether we are in the past,present or future.This can be indicated through the colour codes
+- Added in JavaScript code and modified the calendar app to let it know whether we are in the past,present or future.This can be indicated through the colour codes(Past - Grey , Present - Red , Future - Green)
 - Added the current date inside the app to let the user know the current day,date and time as they are engaging within the app
-- 
+- Added a for loop within the local storage to set/get items so that when I add an event/text on the time I like it will be saved in the application/local storage.
+- Added/removed classes through if/else statements so the app can identify what time it's in when utilisied.

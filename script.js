@@ -1,4 +1,4 @@
-var currentDay = dayjs().format('dddd, MMMM D, YYYY HH:mm:ss')
+var currentDay = dayjs().format('dddd, MMMM D, YYYY HH:mm:ss A')
 $('#currentDay').text(currentDay)
 
 
