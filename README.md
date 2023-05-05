@@ -7,5 +7,7 @@
 - Added the current date inside the app to let the user know the current day,date and time as they are engaging within the app
 - Added a for loop within the local storage to set/get items so that when I add an event/text on the time I like it will be saved in the application/local storage and will persist.
 - Added/removed classes through if/else statements so the app can identify what time it's in when utilisied.
-Screenshot-1-module-5-challenge.png
+
+# Screenshot of deployed application
+https://github.com/AJosueBN/week-five-day-scheduler-challenge/blob/main/Assets/Screenshot-1-module-5-challenge.png
 - 
