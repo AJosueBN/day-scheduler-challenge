@@ -10,4 +10,3 @@
 
 # Screenshot of deployed application
 https://github.com/AJosueBN/week-five-day-scheduler-challenge/blob/main/Assets/Screenshot-1-module-5-challenge.png
-- 

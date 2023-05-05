@@ -51,7 +51,7 @@ $(function () {
   localStorage.setItem(time , text)
  })
 
- for(var i = 9 ; i < 18 ; i++) {
+ for(var i = 9 ; i < 22 ; i++) {
   $(`#hour-${i} .description`).val(localStorage.getItem(`hour-${i}`))
  }
 
